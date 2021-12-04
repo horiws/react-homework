@@ -1,0 +1,23 @@
+.components {
+  width: 48%;
+  height: 100%;
+  float: left;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+      flex-direction: column;
+}
+.results {
+  width: 48%;
+  height: 100%;
+  float: right;
+}
+/* .dashed{
+    height: 100%;
+    border: 1px dashed;
+    border-color: black;
+    margin: auto;
+} */
+
+
+/*# sourceMappingURL=index-e6c4ea3655.css.map*/
